@@ -19,9 +19,10 @@ How do variations in water and sanitation infrastructure relate to waterborne di
 - Spatial regression / SAR modelling approach (thesis-based)
 
 ## Key Results (from thesis)
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
+- The spatial clustering of waterborne diseases is also pronounced in Kenya with counties with high prevalence rates being located close to each other.
+- Various diseases have their geographic hotspots and it is important to note that location-specific interventions are important.
+- Enhanced provision of sanitation is always linked to lower occurrence of major waterborne diseases and the impact of water treatment on different diseases and situations.
+
 
 ## Outputs
 See `/figures` for maps and results highlights.  
