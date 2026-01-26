@@ -1,0 +1,7 @@
+research question
+data sources
+variables (outcome + predictors)
+methods (Moran’s I, hotspot analysis, SAR / spatial regression)
+key findings (3 bullets)
+limitations (2 bullets)
+what you’d do next with remote sensing
